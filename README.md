@@ -1,0 +1,2 @@
+# Challenges
+For class challenges
